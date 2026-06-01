@@ -1,7 +1,21 @@
 # 🐾 OpenPaw — Social Handle Setup Checklist
 
-Goal: claim **OpenPaw** consistently across every platform, all under one signup
-email, with identical branding. Do these top-to-bottom; ~60–90 min total.
+## Two brand tracks (read first)
+
+We deliberately run **two** brands for **two** audiences:
+
+| Brand | Audience | Channels |
+|---|---|---|
+| **OpenPaw** | tech / dev / maker (open-source credibility) | GitHub, **X devlog**, Discord, Telegram, Reddit, Hacker News, Hackaday, YouTube build logs |
+| **PawMe** | consumer / pet owners (crowdfunding funnel) | **Instagram, TikTok, Facebook** — *already live, keep as-is, not part of this rollout* |
+
+This checklist is the **OpenPaw (dev)** rollout only. Claim it under one signup
+email with identical branding; ~45–60 min.
+
+> ⚠️ **Name collision:** there's an unrelated crypto token also called "OpenPaw"
+> ($PAW, openpaw.net) that holds `@openpaw` on **Telegram** and likely elsewhere.
+> Do **not** use bare `openpaw` where it's taken — use a fallback below so a
+> pet-robot project is never confused with a memecoin. Display name stays "OpenPaw 🐾".
 
 ## Shared settings (use the SAME everywhere)
 
@@ -43,15 +57,12 @@ Keeps your followers + account age.
 3. Add the bot to the channel **as admin**, post one message, then open
    `https://api.telegram.org/bot<TOKEN>/getUpdates` and copy `chat.id` ➜ `TELEGRAM_CHAT_ID`.
 
-### 4. Instagram — the viral engine (pet + robot)
-1. Sign up at **instagram.com** with the email → username `openpaw` (or fallback).
-2. **Settings → Account → Switch to Professional account → Creator** (gets insights + link tools).
-3. Set avatar, bio (short), and link → GitHub hub (or website).
+### 4. Instagram / TikTok / Facebook — STAY ON PawMe
+These are the **consumer / pet-owner** track and already live under **PawMe**.
+Keep them as-is — *not* part of the OpenPaw dev rollout. (Cute robot+pet content
+lives here; dev build-logs do not.)
 
-### 5. TikTok
-1. **tiktok.com** signup → username `openpaw` → same avatar/bio/link.
-
-### 6. YouTube — build-log videos
+### 5. YouTube — build-log videos (OpenPaw)
 1. Create a **channel** named **OpenPaw** (use a Brand Account so it's not tied to a personal name: youtube.com → Settings → **Add or manage your channel(s) → Create a channel**).
 2. Set handle `@openpaw`, banner, description, link.
 
@@ -60,7 +71,7 @@ Keeps your followers + account age.
 2. Tagline, logo, website link.
 
 ### 8. Reserve the name (even if you won't post yet)
-- **Reddit:** create account **u/OpenPaw** to reserve it (post from your personal account in communities; just hold the brand name).
+- **Reddit:** **post from your existing, aged account** (karma + history = posts don't get auto-filtered). A brand-new `u/OpenPaw` account would look like marketing and get removed. Optionally register `u/OpenPaw` just to *hold* the name, but don't post promo from it. Always disclose you're the maker, per each subreddit's self-promo rules.
 - **Hackaday.io / Hackster.io:** create the project under the OpenPaw name.
 - **GitHub:** ✅ already `github.com/ayvalabs/openpaw`.
 
